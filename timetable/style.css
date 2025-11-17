@@ -1,0 +1,20 @@
+*
+    {
+        padding: 0;
+        margin: o;
+    }
+    body{
+        text-align:  center;
+        text-transform: capitalize;
+        margin: 0 299px;
+    }
+    h1{
+        
+        margin-bottom: 2%;
+        color: rgb(194, 9, 9);
+       
+    }
+    table thead{
+        background-attachment: fixed;
+        background-color: antiquewhite  ;
+    }
